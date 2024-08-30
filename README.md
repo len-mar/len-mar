@@ -1,16 +1,26 @@
-## Hi there 👋
+## Welcome! 
+## I'm Marlene, a fresh Java Dev who's all about the learning curve. May it never flatten.
+### Skills in: Java | JavaScript | Spring Boot | Git | QA | Agile
+----------------
+### About me:
 
-<!--
-**len-mar/len-mar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Have always been fascinated by **how** things work, especially **humans and technology**.
 
-Here are some ideas to get you started:
+👩🏼‍💻 After 4+ years of experience in the software development industry, learning how to code seemed like the logical next step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 Currently **looking for junior-level roles**, preferrably remote. If you're interested, let me know!
+
+
+📍 Located in Erfurt, Germany.
+
+----------------
+
+### So!
+
+🔭 Feel free to peruse - **comments and feedback** are much appreciated!
+
+🌱 I’m currently learning more about **advanced programming concepts and the Java ecosystem**, so if you have an impulse or a resource, go ahead!
+
+
+🌞 Otherwise, **thank you for visiting - and enjoy the rest of your day**!
+
