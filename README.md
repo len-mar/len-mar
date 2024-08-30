@@ -1,5 +1,5 @@
 ## Hi! I'm Marlene, a fresh Java Dev who's all about the learning curve. May it never flatten.
-### Skills in: Java | JavaScript | Spring Boot | Git | QA | Agile
+### Skills in: Java | SpringBoot | JavaScript | Git | QA | Agile | more on the way.
 ----------------
 
 ### About me:
