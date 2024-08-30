@@ -19,7 +19,8 @@
 
 🔭 Feel free to peruse - **comments and feedback** are much appreciated!
 
-🌱 I’m currently learning more about **advanced programming concepts and the Java ecosystem**, so if you have an impulse or a resource, go ahead!
+🌱 I’m currently learning more about **advanced programming concepts and the extended Java ecosystem**
+ - so, if you have an impulse or a resource, go ahead!
 
 
 🌞 Otherwise, **thank you for visiting - and enjoy the rest of your day**!
