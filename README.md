@@ -10,7 +10,6 @@
 
 🔎 Currently **looking for junior-level roles**, preferrably remote. If you're interested, let me know!
 
-📍 Located in Erfurt, Germany.
 
 
 ----------------
