@@ -6,11 +6,16 @@
 
 🧠 Have always been fascinated by **how** things work, especially **humans and technology**.
 
-👩🏼‍💻 After 4+ years of experience in the software development industry, learning how to code seemed like the logical next step.
+👩🏼‍💻 After **4+ years of experience** in the software development industry, learning how to code seemed like the logical next step.
 
-🔎 Currently **looking for junior-level roles**, preferrably remote. If you're interested, let me know!
+🦆 Luckily, I found **I love(d) coding**. Not all the time, but overall.
+
+📍 Located in Erfurt, Germany.
 
 
+----------------
+
+🔎 Currently **looking for junior-level development roles**, preferrably remote. If you're interested, let me know!
 
 ----------------
 
@@ -22,6 +27,8 @@
 
 💡 So, if you have an impulse or an interesting resource on that or something different, hit me up!
 
+
+___________________
 
 🌞 Otherwise, **thank you for visiting - and enjoy the rest of your day**!
 
