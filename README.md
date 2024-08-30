@@ -8,14 +8,16 @@
 
 👩🏼‍💻 After 4+ years of experience in the software development industry, learning how to code seemed like the logical next step.
 
+📍 Located in Erfurt, Germany.
+
+
+
 🔎 Currently **looking for junior-level roles**, preferrably remote. If you're interested, let me know!
 
 
-📍 Located in Erfurt, Germany.
-
 ----------------
 
-### So!
+### So! Since you're here now...
 
 🔭 Feel free to peruse - **comments and feedback** are much appreciated!
 
