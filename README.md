@@ -1,4 +1,4 @@
-## Hi! I'm Marlene, a fresh Java Dev who's all about the learning curve. May it never flatten.
+## Hi! I'm Marlene, a fresh Java dev who's all about the learning curve. May it never flatten.
 ### Skills in: Java | SpringBoot | JavaScript | Git | QA | Agile | more on the way.
 ----------------
 
