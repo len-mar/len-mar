@@ -15,7 +15,7 @@
 
 ----------------
 
-🔎 Currently **looking for junior-level development roles**, preferrably remote. If you're interested, let me know!
+🔎 Currently **looking for a junior-level development role**, preferrably remote. If you're interested, let me know!
 
 ----------------
 
