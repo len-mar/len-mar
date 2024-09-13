@@ -1,4 +1,4 @@
-## Hi! I'm Marlene, a fresh Java dev.
+## Hi! I'm Marlene, a Jr. Java dev.
 ### Skills in: Java | Spring/Boot | JavaScript | Git | MongoDB | QA | Agile | more on the way.
 ----------------
 
