@@ -1,5 +1,5 @@
 ## Hi! I'm Marlene, a Jr. Java dev.
-### Skills in: Java | Spring/Boot | JavaScript | Git | MongoDB | QA | Agile | more on the way.
+### Skills in: Java | Spring | JavaScript | Git | MongoDB | QA | Agile | more on the way.
 ----------------
 
 ### About me:
@@ -9,8 +9,6 @@
 👩🏼‍💻 After **4+ years of experience** in the software development industry, learning how to code seemed like the logical next step.
 
 🦆 Luckily, I found **I love(d) coding**. Not all the time, but overall.
-
-📍 Located in Erfurt, Germany.
 
 
 ----------------
